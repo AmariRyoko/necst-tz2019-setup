@@ -24,10 +24,3 @@ catkin_create_pkg rospkg-pyinterface
 cd $HOME/ros
 
 catkin_make
-
-#rqt_graphツールのインストール
-cd $HOME/ros/src
-sudo apt-get install ros-melodic-rqt
-sudo apt-get install ros-melodic-rqt-common-plugins
-
-pip install pydot
