@@ -4,7 +4,7 @@
 #cd $HOME/ros
 
 git clone https://github.com/AmariRyoko/necst-tz2019.git $HOME/ros/src/necst-tz2019
-git clone https://github.com/ogawa-ros/necst-sisrx.git $HOME/ros/src/necst-sisrx
+#git clone https://github.com/ogawa-ros/necst-sisrx.git $HOME/ros/src/necst-sisrx
 git clone https://github.com/ogawa-ros/necst-core.git $HOME/ros/src/necst-core
 git clone https://github.com/ogawa-ros/ogameasure.git $HOME/ros/src/ogameasure
 git clone https://github.com/ogawa-ros/pyinterface.git $HOME/ros/src/pyinterface
